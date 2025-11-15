@@ -1,5 +1,6 @@
-streamlit>=1.36.0
-opencv-python-headless>=4.8.0
-numpy>=1.24.0
-pygame>=2.4.0
+streamlit
+opencv-python-headless
+mediapipe==0.10.14
+numpy
+Pillow
 
